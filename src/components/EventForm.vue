@@ -36,9 +36,7 @@ export default {
         start: '',
         end: '',
         color: '',
-        data: {
-          description: ''
-        }
+        description: ''
       }
     }
   },
@@ -75,9 +73,7 @@ export default {
         start: '',
         end: '',
         color: '',
-        data: {
-          description: ''
-        }
+        description: ''
       }
     }
 
